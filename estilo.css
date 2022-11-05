@@ -1,0 +1,29 @@
+body{
+    font-family: calibri, arial, helvetica;
+}
+h1{
+    font-family: cambria;
+    color: #1F497D;
+    background-color: #BFBFBF;
+    font-size: 24px;
+    letter-spacing: 0.5em;
+    word-spacing: 1.5em;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    font-family: cambria;
+    color: #632423;
+    font-size: 18px;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+}
+ul{
+    font-style: italic;
+}
+.negrita{
+    font-weight: bold;
+}
+.mayus{
+    font-variant: small-caps;
+}
